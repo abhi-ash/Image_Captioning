@@ -7,3 +7,10 @@
 to turn the understanding of the image into words in the right order.**
 ## Motivation behind the Project
 **We can create a product for the blind which will guide them travelling on the roads without the support of anyone else. We can do this by first converting the scene into text and then the text to voice. Both are now famous applications of Deep Learning. Refer this [link](https://www.youtube.com/watch?v=rLyF4XQLwr0) where its shown how Nvidia research is trying to create such a product.**
+## Data
+This dataset contains 8000 images each with 5 captions.
+These images are bifurcated as follows:
+-Training Set — 6000 images
+-Dev Set — 1000 images
+-Test Set — 1000 images
+
